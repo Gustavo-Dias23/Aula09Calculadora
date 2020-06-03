@@ -1,0 +1,13 @@
+D:\Users\gusta\Desktop\Senai\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.exe
+D:\Users\gusta\Desktop\Senai\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.deps.json
+D:\Users\gusta\Desktop\Senai\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.runtimeconfig.json
+D:\Users\gusta\Desktop\Senai\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.runtimeconfig.dev.json
+D:\Users\gusta\Desktop\Senai\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.dll
+D:\Users\gusta\Desktop\Senai\Aula09Calculadora\bin\Debug\netcoreapp3.1\Aula09Calculadora.pdb
+D:\Users\gusta\Desktop\Senai\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.csprojAssemblyReference.cache
+D:\Users\gusta\Desktop\Senai\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.AssemblyInfoInputs.cache
+D:\Users\gusta\Desktop\Senai\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.AssemblyInfo.cs
+D:\Users\gusta\Desktop\Senai\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.csproj.CoreCompileInputs.cache
+D:\Users\gusta\Desktop\Senai\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.dll
+D:\Users\gusta\Desktop\Senai\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.pdb
+D:\Users\gusta\Desktop\Senai\Aula09Calculadora\obj\Debug\netcoreapp3.1\Aula09Calculadora.genruntimeconfig.cache

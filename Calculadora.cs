@@ -10,6 +10,14 @@ namespace Aula09Calculadora
         public void Somar(){
             resultado = num1 + num2;
         }
-        public
+        public void Subtrair (){
+            resultado = num1 - num2;
+        }
+        public void Multiplicar(){
+            resultado = num1 * num2;
+        }
+        public void Dividir(){
+            resultado = num1 / num2;
+        }
     }
 }
